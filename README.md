@@ -1,4 +1,4 @@
-#local-static-servers
+# local-static-servers
 > This is a command line utility that will start a HTTP server to serve static files from current directory.
 ## Build Setup
 ```bash
